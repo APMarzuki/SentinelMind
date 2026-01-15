@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 🛡️ SentinelMind: Real-Time Network Threat Guardian
 
 SentinelMind is a lightweight Network Intrusion Detection System (NIDS) designed to identify and log connections to known malicious infrastructure. It combines global threat intelligence with live packet inspection to protect your local environment.
