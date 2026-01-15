@@ -1,0 +1,11 @@
+# --- Threat Intelligence & APIs ---
+OTXv2>=1.5.12
+requests>=2.32.0
+python-dotenv>=1.0.0
+
+# --- Network Eye (Traffic Capture) ---
+scapy>=2.5.0
+
+# --- Data & Analysis ---
+pandas>=2.0.0
+cryptography>=42.0.0

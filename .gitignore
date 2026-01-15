@@ -1,0 +1,27 @@
+# Secrets and Configs
+.env
+config/
+
+# Databases and Local Data
+data/*.db
+data/*.json
+!data/whitelist.txt
+
+# Python Caches
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local Database and Logs
+data/threat_intel.db
+data/alerts.log
+data/*.log
+
+# PyCharm/IDE settings
+.idea/
+
+# Ignore the file with real keys
+.env
+
+# Allow the template to be uploaded
+!sample.env
